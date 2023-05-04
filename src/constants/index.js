@@ -141,10 +141,10 @@ const technologies = [
     name: "AWS",
     icon: aws,
   },
-  {
-    name: "Linux",
-    icon: linux,
-  },
+  // {
+  //   name: "Linux",
+  //   icon: linux,
+  // },
   
   {
     name: "XML",
