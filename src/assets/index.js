@@ -6,6 +6,17 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import whatsappwebapp from "./whatsappwebapp.png"
+import beverego from "./beverego.png"
+import speakitup from "./speakitup.png"
+import whatappandroid from "./whatsappandroid.png"
+import androidicon from "./android.png"
+import blogger from "./blogger.png"
+import ytklon from "./ytklon.png"
+import music from "./music.png"
+import weather from "./weather.png"
+import keep from "./keep.png"
+
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -38,6 +49,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import primotech from "./company/primotech.png";
 import hitech from "./company/hitech.png";
+import hackoverflow from "./company/hackoverflow.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -45,7 +57,7 @@ import tripguide from "./tripguide.png";
 
 export {
   logo,
-  android,
+  androidicon,
   backend,
   creator,
   mobile,
@@ -65,6 +77,7 @@ export {
   reactjs,
   redux,
   tailwind,
+  android,
   typescript,
   threejs,
   meta,
@@ -82,5 +95,15 @@ export {
   sql,
   api,
   xml,
-  node
+  node,
+  whatsappwebapp,
+  beverego,
+  speakitup,
+  whatappandroid,
+  blogger,
+  ytklon,
+  music,
+  weather,
+  keep,
+  hackoverflow
 };

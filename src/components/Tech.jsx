@@ -15,7 +15,7 @@ const Tech = () => {
 
           <div className="block  sm:hidden"  key={technology.name} >
             {/* <BallCanvas icon={technology.icon} /> */}
-            <div class="rounded-lg overflow-hidden shadow-lg  ">
+            <div class="rounded-lg overflow-hidden shadow-lg   ">
               <img class="rounded-full h-25 w-20 mx-auto mt-4  border rounded-full" src={technology.icon} alt="Logo"/>
               {/* <div class="px-6 py-4 ">
                 <div class="font-bold text-xl mb-2">Title</div>
@@ -24,7 +24,7 @@ const Tech = () => {
           </div>
           </>
           
-        ))}
+        ))} 
       </div>
     </>
   );
